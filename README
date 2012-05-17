@@ -1,0 +1,11 @@
+Facebook PhoneGap/Cordova Plugin implementaion.
+This Xcode project uses the https://github.com/davejohnson/phonegap-plugin-facebook-connect plugin with the Hacbook example. Everything is set up to work already.
+
+Change the Facebook APP ID
+/Framework/www/index.html Line 321
+/Framework/Framework-Info.plist Line 64 (keep 'fb' in front of app id)
+
+
+
+Project Name: Framework
+Michael Rzeznik
